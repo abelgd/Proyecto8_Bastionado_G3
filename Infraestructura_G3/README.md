@@ -1,9 +1,5 @@
 # Informe de Infraestructura de Red WiFi Corporativa
 
-**Grupo 3 · Tecnología UniFi (Ubiquiti) · Abril 2026**
-
----
-
 ## 1. Introducción
 
 La red inalámbrica corporativa se ha diseñado sobre el ecosistema UniFi de Ubiquiti, con 9 puntos de acceso U6 Pro gestionados centralizadamente. El objetivo es garantizar cobertura completa, sin interferencias y con alta disponibilidad en todas las zonas del edificio.
