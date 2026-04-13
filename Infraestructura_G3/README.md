@@ -1,9 +1,9 @@
 # Informe de Infraestructura de Red WiFi Corporativa
 
-**Realizado por:** Grupo 3
-**Documento:** Diseño y Justificación de la Infraestructura de Red Inalámbrica  
-**Tecnología:** UniFi (Ubiquiti)  
-**Fecha:** Abril 2026  
+- **Realizado por:** Grupo 3
+- **Documento:** Diseño y Justificación de la Infraestructura de Red Inalámbrica  
+- **Tecnología:** UniFi (Ubiquiti)  
+- **Fecha:** Abril 2026  
 
 ---
 
